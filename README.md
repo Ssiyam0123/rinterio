@@ -1,6 +1,6 @@
-# rinterio
+﻿# rinterio
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://siyam-io.github.io/rinterio/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://siyam-rinterio.vercel.app////)
 
 Rinterio is a modern, responsive interior design landing page showcasing house plans, design portfolios, work processes, and customizable barn house listings.
 
@@ -15,3 +15,6 @@ Rinterio is a modern, responsive interior design landing page showcasing house p
 - TailwindCSS & DaisyUI CDN
 - Font: Manrope (Google Fonts)
 - Icons: Font Awesome
+
+
+
